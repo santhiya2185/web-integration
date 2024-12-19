@@ -1,0 +1,40 @@
+.conference-img {
+    height: 80vh;
+}
+
+.image {
+    height: 50vh;
+}
+
+.conference-page-details {
+    text-align: center;
+    padding: 15px;
+}
+
+.conference-page-heading {
+    font-family: Roboto;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.conference-page-para {
+    font-family: Roboto;
+    color: #5a7184;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.know-more-page {
+    height: 100vh;
+}
+
+.know-more-page-details {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.detail {
+    margin: 30px;
+}
